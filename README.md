@@ -59,9 +59,7 @@
 [learning_next_anchor]: #learning-next
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccgarays&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="ccgarays" /></p>
-
+<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccgarays&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="ccgarays" /></p>-->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccgarays&show_icons=true&locale=en&theme=material-palenight" alt="ccgarays" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccgarays&theme=material-palenight" alt="ccgarays" /></p>
 
