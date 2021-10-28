@@ -39,9 +39,9 @@
 <a name="learning-next"></a>
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang logo" title="Golang" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />][tech_tools_anchor]
 
 
 ## 👾  What I am interested in learning at some point
